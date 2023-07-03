@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-/Users/mak/Desktop/git/AnastasiiaKonkova/2.jpg
+![Image alt](2.jpg)
 
 <!--
 **AnastasiiaKonkova/AnastasiiaKonkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
