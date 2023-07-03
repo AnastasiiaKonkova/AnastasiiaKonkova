@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Image alt](2.jpg)
 
 <!--
