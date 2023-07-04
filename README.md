@@ -1,5 +1,7 @@
 ![Image alt](2.jpg)
 
+## ⚡ Интересы: новые технологии, нетривиальные задачи и работа в команде единомышленников. ##
+
 <!--
 **AnastasiiaKonkova/AnastasiiaKonkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
