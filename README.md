@@ -1,4 +1,4 @@
-<img src="2.jpg" style="width: 420px">
+<img src="2.jpg" style="width: 423px">
 
 ### ✨ <span style="color:#9B2D30"> Интересы: новые технологии, нетривиальные задачи и работа в команде единомышленников. </span> ###
 
