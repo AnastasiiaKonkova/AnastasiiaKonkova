@@ -1,6 +1,6 @@
 ![Image alt](2.jpg)
 
-### ✨ <span style="color:#9B2D30"> Интересы: новые технологии, нетривиальные задачи и работа в команде единомышленников. </span> ###
+### ✨ <span style="color:#9B2D30"> Интересы: </span> новые технологии, нетривиальные задачи и работа в команде единомышленников.  ###
 
 <!--
 **AnastasiiaKonkova/AnastasiiaKonkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
