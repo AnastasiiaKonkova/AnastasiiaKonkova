@@ -3,7 +3,7 @@
 ---
 ### 🗿 Hard skills:  
 ### 🌿 Soft skills:
-### 💻 Stack: C#, SQL, продукты Atlassian (Jira, Confluece),Miro, Github (Markdown),Postman, Charles Proxy.
+### 💻 Stack: C#, SQL,VirtualBox, продукты Atlassian (Jira, Confluece),Miro, Github (Markdown),Postman, Charles Proxy.
 ### ✨ Интересы: новые технологии, нетривиальные задачи и работа в команде единомышленников. 
 ### 👩‍🎓 Высшее, GeekBrains (ит-специалист ручное тестирование).
 
