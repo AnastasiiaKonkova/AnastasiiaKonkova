@@ -11,4 +11,5 @@
 [![Mail](https://img.shields.io/badge/Mail.ru-%233780F1.svg?style=for-the-badge&logoColor=white)](mailto:anastasiya.komova@mail.ru "или на меня")
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%A52A2A&lines=Активно+ищу+удаленную+работу)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B00000&lines=💭+Активно+ищу+удаленную+работу)](https://git.io/typing-svg)
